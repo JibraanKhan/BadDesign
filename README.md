@@ -1,6 +1,6 @@
 For any curious reader,
  
-   This is a joke for my Software Design class, we were trying to break as many good coding standards and best practices and compare our 
+   This is a joke for our Software Design class, we were trying to break as many good coding standards and best practices and compare our 
 bad implementations to others in the class to see which one was worse. This idea was based on the book "Best Practices of Spell Design" 
 which is a story about which practices to follow and which ones to stay away from. It also explains each practice and how these practices
 can be harmful through the rules of a fantasy world with spells, witches, and potions. 
@@ -17,4 +17,4 @@ Thank you for your understanding,
 
 Best regards,
 
-Jibraan
+Jibraan, Newcomb Maddux, and Hayata Suenaga
