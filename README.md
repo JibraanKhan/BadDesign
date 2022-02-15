@@ -17,4 +17,4 @@ Thank you for your understanding,
 
 Best regards,
 
-Jibraan, Newcomb Maddux, and Hayata Suenaga
+Newcomb Maddux, Jibraan Khan, and Hayata Suenaga
